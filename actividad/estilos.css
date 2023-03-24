@@ -1,0 +1,28 @@
+body{
+    background: #ff7300dc;
+    display: flex;
+}
+
+header{
+    background: white;
+}
+.container{
+    background: white;
+}
+.medio{
+    background: white;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.informacion{
+    background: #ff7300dc;
+    height: 400px;
+}
+
+.imgRedonda{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
